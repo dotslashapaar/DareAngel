@@ -49,7 +49,7 @@
 - I dare you to drink alcohol just before you're legally allowed in your region.
 - I dare you to run away when security asks you to leave a public area.
 - I dare you to sneak into a movie theater without paying.
-- I dare you to jaywalk across a quiet street. (done)
+- I dare you to jaywalk across a quiet street. 
 
 
 ## Consent and Privacy Violation Dares
@@ -69,7 +69,7 @@
 - I dare you to jump out and scare willing friends for their reactions.
 - I dare you to ask unusual personal questions to strangers who consent to be interviewed.
 - I dare you to conduct a social experiment where you pretend to need help.
-- I dare you to temporarily "borrow" and return a friend's item without asking.
+- I dare you to temporarily "borrow" and return a friend's item without asking. (done)
 
 
 ## Self-Harm Dares
