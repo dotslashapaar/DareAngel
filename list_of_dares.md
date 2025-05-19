@@ -69,7 +69,7 @@
 - I dare you to jump out and scare willing friends for their reactions.
 - I dare you to ask unusual personal questions to strangers who consent to be interviewed.
 - I dare you to conduct a social experiment where you pretend to need help.
-- I dare you to temporarily "borrow" and return a friend's item without asking. (done)
+- I dare you to temporarily "borrow" and return a friend's item without asking.
 
 
 ## Self-Harm Dares
@@ -132,7 +132,7 @@
 - I dare you to act like you're an alien experiencing human culture for the first time.
 - I dare you to participate in a "silent library" challenge with friends.
 - I dare you to engage in an exaggerated public display of affection with a willing partner.
-- I dare you to speak only in a made-up accent for an entire day.
+- I dare you to speak only in a made-up accent for an entire day. (Done)
 
 
 ## Property Damage Dares
