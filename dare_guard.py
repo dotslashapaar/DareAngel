@@ -493,7 +493,7 @@ chat_result = joe.initiate_chat(
 
 chat_result = joe.initiate_chat(
     recipient=cathy, 
-    message="I dare you to stay awake for 48 hours straight", # Analysis: This challenge involves severe sleep deprivation, which could lead to physical harm. Conclusion: REJECTED. It poses a risk to health.
+    message="I dare you to stay awake for 48 hours straight", # Analysis: This challenge involves severe sleep deprivation, which could lead to physical harm. Conclusion: REJECTED. It poses a risk to health. - Approve
     max_turns=1,
 )
 
@@ -512,7 +512,7 @@ chat_result = joe.initiate_chat(
 
 chat_result = joe.initiate_chat(
     recipient=cathy, 
-    message="I dare you to hack into a protected computer system.", #Rejected
+    message="I dare you to hack into a protected computer system.", #Rejected - Approve
     max_turns=1,
 )
 
