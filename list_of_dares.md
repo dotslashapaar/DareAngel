@@ -132,7 +132,7 @@
 - I dare you to act like you're an alien experiencing human culture for the first time.
 - I dare you to participate in a "silent library" challenge with friends.
 - I dare you to engage in an exaggerated public display of affection with a willing partner.
-- I dare you to speak only in a made-up accent for an entire day. (Done)
+- I dare you to speak only in a made-up accent for an entire day.
 
 
 ## Property Damage Dares
